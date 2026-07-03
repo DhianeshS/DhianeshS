@@ -1,70 +1,19 @@
-👋 Introduction
-• Hi, I'm Dhianesh 🔮
-• AI & Full-Stack Developer
-• Passionate about AI, Web Development, and Problem Solving
+Intro Section (Hi, I'm Your Dhianesh)
 
-⌨️ Typing Animation Banner
+Typing Animation Banner
 
-🙋 About Me
-• 🎓 Engineering Student
-• 🤖 Building AI-powered applications
-• 🌱 Currently learning Full-Stack Development & AI
-• 💡 Interested in Machine Learning, Cloud, and Open Source
-• 🚀 Always exploring new technologies
+About Me Section
 
-🌐 Connect With Me
-• Portfolio
-• LinkedIn
-• GitHub
-• Email
+• Portfolio + LinkedIn badges
 
-💻 Tech Stack
-• Languages: Python, Java, JavaScript, C, HTML, CSS
-• Frameworks: React, Node.js
-• Databases: MySQL, MongoDB
-• AI: OpenAI APIs, Prompt Engineering
-• Tools: Git, GitHub, VS Code, Figma
+Tech Stack icons
 
-🚀 Featured Projects
-• AI-Driven Public Health Chatbot for Disease Awareness
-• AI LinkedIn Post Generator
-• AI Finance Mentor
-• More projects coming soon...
+• Current Projects section
 
-📈 GitHub Analytics
-• GitHub Stats Card
-• Most Used Languages
-• GitHub Streak
-• Contribution Graph
+• GitHub Stats cards
 
-🏆 Achievements
-• Hackathon Participant
-• Open Source Contributor
-• AI Project Developer
+• Tools section
 
-🛠️ Tools I Use
-• VS Code
-• Git
-• GitHub
-• Postman
-• Docker
-• Figma
-• Linux
+• Contribution graph
 
-📚 Currently Learning
-• Advanced React
-• Next.js
-• Cloud Computing
-• System Design
-• Generative AI
-
-🎯 2026 Goals
-• Build impactful AI products
-• Contribute to Open Source
-• Master Full-Stack Development
-• Publish more GitHub projects
-
-📫 Let's Connect
-• Open to collaboration on AI and Web Development projects.
-
-👀 Visitor Counter
+• Visitor badge
