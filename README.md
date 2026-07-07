@@ -15,10 +15,10 @@
 
 ```yaml
 Name: Dhianesh S
-Location: India 🇮🇳
+Location: India 
 Role: AI & Full-Stack Developer
-Education: Engineering Student
-Focus: Artificial Intelligence & Web Development
+Education: Electronic and communication Engineering Student
+Focus: Web Development
 ```
 
 - 🤖 Building AI-powered applications
